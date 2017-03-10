@@ -18,7 +18,7 @@ Note: I've only tested this in Chrome and Firefox but it should work in all of t
 	- [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
 	- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 	- [Safari](http://sobolev.us/stylish)
-	- [Chrome](https://addons.opera.com/en/extensions/details/stylish/)
+	- [Opera](https://addons.opera.com/en/extensions/details/stylish/)
 1. Copy the contents of [this file](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.css) into a new style
 
 ## Userscript: Chrome / Safari / Opera / Edge
