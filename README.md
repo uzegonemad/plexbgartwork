@@ -15,11 +15,11 @@ Note: I've only tested this in Chrome and Firefox but it should work in all of t
 
 ## Chrome / Safari / Opera / Edge
 1. [Install Tampermonkey](https://tampermonkey.net)
-1. [Click here](https://github.com/uzegonemad/plexbgartwork/plexbgartwork.user.js)
+1. [Click here](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js)
 
 ## Firefox
 1. [Install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Install Tampermonkey](https://tampermonkey.net)
-1. [Click here](https://github.com/uzegonemad/plexbgartwork/plexbgartwork.user.js)
+1. [Click here](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js)
 
 ## Internet Explorer
 IE doesn't support userscripts. However you can use a bookmarklet (special URL in your bookmarks) to load the styles. This method only supports app.plex.tv. Unfortunately you have to click this link *every* time you want to load Plex.

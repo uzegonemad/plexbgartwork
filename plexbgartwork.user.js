@@ -7,8 +7,8 @@
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @resource     plexBgCss plexbgartwork.css?v=833f40
-// @downloadURL https://github.com/uzegonemad/plexbgartwork/plexbgartwork.user.js
-// @updateURL https://github.com/uzegonemad/plexbgartwork/plexbgartwork.user.js
+// @downloadURL https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js
+// @updateURL https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js
 // ==/UserScript==
 
 var newCSS = GM_getResourceText("plexBgCss");
