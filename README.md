@@ -13,11 +13,19 @@ This script uses your web browser to add some styles on top of the Plex web inte
 
 Note: I've only tested this in Chrome and Firefox but it should work in all of the browsers listed.
 
-## Chrome / Safari / Opera / Edge
+## Stylish: Chrome / Firefox / Safari / Opera
+1. Install Stylish
+	- [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
+	- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
+	- [Safari](http://sobolev.us/stylish)
+	- [Chrome](https://addons.opera.com/en/extensions/details/stylish/)
+1. Copy the contents of [this file](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.css) into a new style
+
+## Userscript: Chrome / Safari / Opera / Edge
 1. [Install Tampermonkey](https://tampermonkey.net)
 1. [Click here](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js)
 
-## Firefox
+## Userscript: Firefox
 1. [Install Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) or [Install Tampermonkey](https://tampermonkey.net)
 1. [Click here](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js)
 
