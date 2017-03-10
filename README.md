@@ -22,9 +22,17 @@ Note: I've only tested this in Chrome and Firefox but it should work in all of t
 1. [Click here](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js)
 
 ## Internet Explorer
-IE doesn't support userscripts. However you can use a bookmarklet (special URL in your bookmarks) to load the styles. This method only supports app.plex.tv. Unfortunately you have to click this link *every* time you want to load Plex.
+IE doesn't support userscripts and style injections are difficult. However... if you really insist on using Internet Explorer...
 
-Drag [this link](javascript:(window.open("https://app.plex.tv/"),function(){var e=document.createElement("link");e.setAttribute("href","https://github.com/uzegonemad/plexbgartwork/plexbgartwork.css"),e.setAttribute("rel","stylesheet"),e.setAttribute("type","text/css"),document.getElementsByTagName("head")[0].appendChild(e)}());) into your bookmarks bar.
+Internet Explorer allows you to add your own stylesheet.
+
+1. Open notepad
+1. [Open this url](https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.css)
+1. Copy/paste the contents into notepad
+1. Save the file as `PlexBgArtwork.css` (Make sure to select "All Files" under type)
+1. Follow [these instructions](https://www.itsupportguides.com/computer-accessibility/how-to-use-a-custom-style-sheet-css-with-internet-explorer/)
+
+**This method is unsupported and no support will be provided.**
 
 # Examples
 

@@ -1,22 +1,18 @@
-body {
-    opacity: 0;
-}
-
 /* Image Container */
 .PrePlayArtwork-imageContainer-6PKE2 {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -1;
+    position: fixed !important;
+    top: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    z-index: -1 !important;
 
     width: 100% !important;
     height: 100% !important;
 
     margin: 0 !important;
 
-    background: #1f1f1f;
+    background: #1f1f1f !important;
 
     -webkit-animation: 0.6s ease-in plexbgfadein;
     -moz-animation: 0.6s ease-in plexbgfadein;
@@ -28,12 +24,12 @@ body {
 .PrePlayArtwork-imageContainer-6PKE2 > div:first-child {
     width: 100% !important;
     height: 100% !important;
-    opacity: 0.08;
+    opacity: 0.08 !important;
 }
 
 /* Resizing adds extra divs */
 .PrePlayArtwork-imageContainer-6PKE2 > div + div {
-    display: none;
+    display: none !important;
 }
 
 /* Item Thumbnail */
