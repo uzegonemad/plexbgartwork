@@ -1,5 +1,5 @@
 /* Image Container */
-.PrePlayArtwork-imageContainer-6PKE2 {
+[class^="PrePlayArtwork-imageContainer-"] {
     position: fixed !important;
     top: 0 !important;
     right: 0 !important;
@@ -21,19 +21,19 @@
 }
 
 /* Image */
-.PrePlayArtwork-imageContainer-6PKE2 > div:first-child {
+[class^="PrePlayArtwork-imageContainer-"] > div:first-child {
     width: 100% !important;
     height: 100% !important;
     opacity: 0.08 !important;
 }
 
 /* Resizing adds extra divs */
-.PrePlayArtwork-imageContainer-6PKE2 > div + div {
+[class^="PrePlayArtwork-imageContainer-"] > div + div {
     display: none !important;
 }
 
 /* Item Thumbnail */
-.PrePlayArtwork-imageContainer-6PKE2 + div {
+[class^="PrePlayArtwork-imageContainer-"] + div {
     position: fixed !important;
     top: 180px !important;
     background-position: center !important;
