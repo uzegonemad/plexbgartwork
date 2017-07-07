@@ -1,5 +1,6 @@
 /* Image Container */
-[class^="PrePlayArtwork-imageContainer-"] {
+[class^="PrePlayArtwork-imageContainer-"],
+._3dXG6V {
     position: fixed !important;
     top: 0 !important;
     right: 0 !important;
@@ -21,19 +22,22 @@
 }
 
 /* Image */
-[class^="PrePlayArtwork-imageContainer-"] > div:first-child {
+[class^="PrePlayArtwork-imageContainer-"] > div:first-child,
+._3dXG6V > div:first-child {
     width: 100% !important;
     height: 100% !important;
     opacity: 0.08 !important;
 }
 
 /* Resizing adds extra divs */
-[class^="PrePlayArtwork-imageContainer-"] > div + div {
+[class^="PrePlayArtwork-imageContainer-"] > div + div,
+._3dXG6V > div + div {
     display: none !important;
 }
 
 /* Item Thumbnail */
-[class^="PrePlayArtwork-imageContainer-"] + div {
+[class^="PrePlayArtwork-imageContainer-"] + div,
+._3dXG6V + div {
     position: fixed !important;
     top: 180px !important;
     background-position: center !important;

@@ -6,7 +6,7 @@
 // @include     /^http(s)?:\/\/(.*):32400\//
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
-// @resource     plexBgCss plexbgartwork.css?v=833f40
+// @resource     plexBgCss plexbgartwork.css?v=0c724b
 // @downloadURL https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js
 // @updateURL https://raw.githubusercontent.com/uzegonemad/plexbgartwork/master/plexbgartwork.user.js
 // ==/UserScript==
