@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Fix Plex Web Background Art
-// @version      0.1
+// @version      0.1.1
 // @author       Benjamin Uzelac
 // @match        *://app.plex.tv/*
 // @include     /^http(s)?:\/\/(.*):32400\//
